@@ -1,0 +1,20 @@
+#score{
+    float: left;
+    font-family: 'Are You Serious', cursive;
+font-family: 'Comic Neue', cursive;
+}
+
+#time{
+    float:right;
+    font-family: 'Are You Serious', cursive;
+    font-family: 'Comic Neue', cursive;
+}
+
+body{
+    background-color: gold;
+}
+
+#backboard{
+    background-color: burlywood;
+}
+
